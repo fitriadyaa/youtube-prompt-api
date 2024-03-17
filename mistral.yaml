@@ -1,3 +1,4 @@
+##this if you want to use Mistral for model LLM, and this is free
 llm:
   provider: huggingface
   config:
